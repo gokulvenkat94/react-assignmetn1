@@ -1,0 +1,16 @@
+.rox {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  border-radius: 2px;
+
+  align-items: space-between;
+}
+.white {
+  background-color: white;
+}
+.size {
+  width: 25px;
+  height: 20px;
+  margin-top: 5px;
+}
